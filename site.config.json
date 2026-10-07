@@ -1,0 +1,14 @@
+{
+  "title": "Ayuan 的博客",
+  "author": "Ayuan",
+  "description": "记录生活，分享想法。给文字一个安静的地方。",
+  "url": "https://ayuan2002.github.io/blog/",
+  "language": "zh-CN",
+  "hero": ["把日常，", "写成值得留下的文字。"],
+  "about": [
+    "你好，我是 Ayuan。欢迎来到我的个人博客。",
+    "这里用来收藏生活的片段、学习的记录，以及还在慢慢生长的想法。",
+    "文章会慢慢增加。愿你在这里找到一点共鸣，也留下一点思考。"
+  ],
+  "github": "https://github.com/Ayuan2002"
+}

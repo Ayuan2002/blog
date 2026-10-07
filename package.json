@@ -1,0 +1,13 @@
+{
+  "name": "ayuan-blog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "上传 HTML 即可发布的个人博客",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}
