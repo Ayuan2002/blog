@@ -4,6 +4,8 @@
 
 **博客地址：<https://ayuan2002.github.io/blog/>**
 
+本仓库已经启用 GitHub Pages，发布源为 GitHub Actions。日常使用直接看下面的“发一篇文章”即可。
+
 ## 第一次启用
 
 1. 打开 [Settings → Pages](https://github.com/Ayuan2002/blog/settings/pages)。
